@@ -1,0 +1,14 @@
+{
+  "name": "L-GPPS 2.0 | Layer-Global Public Safety Protocol",
+  "description": "Global civic infrastructure for reporting, validating, and monitoring institutional issues with immutable evidence and constitutional insights.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "Civic Intelligence",
+    "Immutable Evidence",
+    "Constitutional Insights",
+    "Global Accountability"
+  ]
+}
